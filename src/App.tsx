@@ -19,8 +19,8 @@ export const App: React.FC = () => {
 
   function getRownCol() {
     let x = 0;
-    const lengthsCol = getRundomInt(20);
-    const lengthsRow = getRundomInt(20);
+    const lengthsCol = getRundomInt(100);
+    const lengthsRow = getRundomInt(100);
 
     for (let i = 0; i <= lengthsCol; i++) {
       colArray.push({ id: uuidv4(), value: getRundomInt(100) });

@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+demo https://kitaminary.github.io/matrix-project/
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Used: 
+React, Redux toolkit, HTML, SCSS, SASS
+Library: Bulma
