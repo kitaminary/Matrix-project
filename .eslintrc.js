@@ -9,6 +9,8 @@ module.exports = {
     'react/self-closing-comp': 0,
     'react/display-name': 0,
 
+    'no-param-reassign': ['error', { props: false }],
+    'no-plusplus': 'off',
     // JavaScript
     semi: 0,
     'no-proto': 0,
