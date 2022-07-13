@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Matrix-project/static/css/main.9065ecce.chunk.css",
-    "main.js": "/Matrix-project/static/js/main.8ed19d41.chunk.js",
-    "main.js.map": "/Matrix-project/static/js/main.8ed19d41.chunk.js.map",
-    "runtime-main.js": "/Matrix-project/static/js/runtime-main.977f8730.js",
-    "runtime-main.js.map": "/Matrix-project/static/js/runtime-main.977f8730.js.map",
-    "static/js/2.892cfa77.chunk.js": "/Matrix-project/static/js/2.892cfa77.chunk.js",
-    "static/js/2.892cfa77.chunk.js.map": "/Matrix-project/static/js/2.892cfa77.chunk.js.map",
-    "index.html": "/Matrix-project/index.html",
-    "static/css/main.9065ecce.chunk.css.map": "/Matrix-project/static/css/main.9065ecce.chunk.css.map",
-    "static/js/2.892cfa77.chunk.js.LICENSE.txt": "/Matrix-project/static/js/2.892cfa77.chunk.js.LICENSE.txt"
+    "main.css": "/matrix-project/static/css/main.9065ecce.chunk.css",
+    "main.js": "/matrix-project/static/js/main.8ed19d41.chunk.js",
+    "main.js.map": "/matrix-project/static/js/main.8ed19d41.chunk.js.map",
+    "runtime-main.js": "/matrix-project/static/js/runtime-main.be936bf1.js",
+    "runtime-main.js.map": "/matrix-project/static/js/runtime-main.be936bf1.js.map",
+    "static/js/2.892cfa77.chunk.js": "/matrix-project/static/js/2.892cfa77.chunk.js",
+    "static/js/2.892cfa77.chunk.js.map": "/matrix-project/static/js/2.892cfa77.chunk.js.map",
+    "index.html": "/matrix-project/index.html",
+    "static/css/main.9065ecce.chunk.css.map": "/matrix-project/static/css/main.9065ecce.chunk.css.map",
+    "static/js/2.892cfa77.chunk.js.LICENSE.txt": "/matrix-project/static/js/2.892cfa77.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.977f8730.js",
+    "static/js/runtime-main.be936bf1.js",
     "static/js/2.892cfa77.chunk.js",
     "static/css/main.9065ecce.chunk.css",
     "static/js/main.8ed19d41.chunk.js"
