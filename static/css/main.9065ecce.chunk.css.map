@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/Table/Table.scss"],"names":[],"mappings":"AAAA,SACE,cAAe,CCAf,2BACE,UAAW,CACZ,oBAGC,iBAAkB","file":"main.9065ecce.chunk.css","sourcesContent":[".starter {\n  font-size: 18px;\n}\n",".matrix {\n  &__table__col-buttom {\n    width: 100%;\n  }\n\n  &__table__row {\n    text-align: center;\n  }\n}"]}
