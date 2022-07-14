@@ -204,7 +204,7 @@ export const Table: React.FC = () => {
       <button
         type="button"
         className="button is-info is-rounded"
-        onClick={() => dispatch(SetTable([...table, getRowMore(table[0].length - 1, col)]))}
+        onMouseDown={() => dispatch(SetTable([...table, getRowMore(table[0].length - 1, col)]))}
       >
         Add row
       </button>
